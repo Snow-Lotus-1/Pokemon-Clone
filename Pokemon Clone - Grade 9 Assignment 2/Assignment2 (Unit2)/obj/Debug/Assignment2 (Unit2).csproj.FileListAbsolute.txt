@@ -1,0 +1,28 @@
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).exe.config
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).exe
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).pdb
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).csprojResolveAssemblyReference.cache
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2__Unit2_.Form1.resources
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2__Unit2_.Properties.Resources.resources
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).csproj.GenerateResource.Cache
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).exe
+E:\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).pdb
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).exe.config
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).exe
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).pdb
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).exe
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).pdb
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2__Unit2_.Form1.resources
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2__Unit2_.Properties.Resources.resources
+C:\Users\Jason\Desktop\Grade 10 Computer\Unit 2\Assignment2 (Unit2)\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).exe.config
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).exe
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\bin\Debug\Assignment2 (Unit2).pdb
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\obj\Debug\Assignment2__Unit2_.Form1.resources
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\obj\Debug\Assignment2__Unit2_.Properties.Resources.resources
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).csproj.GenerateResource.cache
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).exe
+C:\Users\Jason\Desktop\HomeWork\Assignment2 (Unit2) - Copy\Assignment2 (Unit2)\obj\Debug\Assignment2 (Unit2).pdb
